@@ -9,7 +9,8 @@ I'm a UI / Tool Programmer...
 
 | Technology             | Usage                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| C++              | Native programming, console games |
+| C++  [![My Skills](https://skillicons.dev/icons?i=cpp,figma&theme=light)](https://skillicons.dev)
+            | Native programming, console games |
 | C#               | Native applications, console games |
 | SFML             | 2D game development |
 | Unreal Engine    | 2D & 3D games (Blueprint & C++) |
