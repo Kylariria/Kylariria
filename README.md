@@ -5,22 +5,23 @@
 ## 🚀 About Me
 I'm a UI / Tool Programmer...
 
-## Skills
+## 🛠️ Skills
 
-| Technology             | Usage                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| C++              | Native programming, console games |
-| C#               | Native applications, console games |
-| SFML             | 2D game development |
-| Unreal Engine    | 2D & 3D games (Blueprint & C++) |
-| Unity Engine     | 2D & 3D games and applications (C#) |
-| WPF              | Desktop applications |
-| XAML             | UI styling for desktop apps |
-| JavaScript       | Discord bots (Discord.js) |
-| Python           | Tools for Unreal Engine & Maya, opencv & mediapipe (face/hands detection with camera) |
-| HTML             | Web pages |
-| CSS              | Web styling |
-| PHP              | Server-side web development |
+| Technology | Usage |
+|-----------|-------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="18"/> C++ | Native programming, console games |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="18"/> C# | Native applications, console games |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="18"/> SFML | 2D game development |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="18"/> Unreal Engine | 2D & 3D games (Blueprint & C++) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="18"/> Unity Engine | 2D & 3D games and applications |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="18"/> WPF | Desktop applications |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xaml/xaml-original.svg" width="18"/> XAML | UI styling for desktop apps |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18"/> JavaScript | Discord bots (Discord.js) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> Python | Tools for Unreal & Maya, OpenCV & MediaPipe |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18"/> HTML | Web pages |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18"/> CSS | Web styling |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="18"/> PHP | Server-side web development |
+
 
 
 ## 🔗 Links
