@@ -3,7 +3,9 @@
 
 
 ## 🚀 About Me
-I'm a UI / Tool Programmer...
+UI / Tool Programmer 🛠️
+Background in embedded systems and web development.
+Started with Arduino, HTML/CSS, VHDL and VBA, then moved toward software tooling and user interfaces.
 
 ## 🛠️ Skills
 
