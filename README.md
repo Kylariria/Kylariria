@@ -32,4 +32,5 @@ Started with Arduino, HTML/CSS, VHDL and VBA, then moved toward software tooling
 I'm currently working on my portfolio, not available yet.
 
 [![portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iria-paquis-740850221/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iria-paquis-740850221/)
+[![Itch.io](https://img.shields.io/badge/Itchio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=orange)](https://kylariria.itch.io/)
