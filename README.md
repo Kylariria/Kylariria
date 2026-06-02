@@ -33,4 +33,4 @@ I'm currently working on my portfolio, not available yet.
 
 [![portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&color=white&labelColor=black&color=bfabff)]()
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iria-paquis-740850221/)
-[![Itch.io](https://img.shields.io/badge/Itch.io-0A66C2?style=for-the-badge&logo=Itch.io&logoColor=orange&color=white&labelColor=black)](https://kylariria.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-0A66C2?style=for-the-badge&logo=Itch.io&color=white&labelColor=black&logoColor=orange)](https://kylariria.itch.io/)
